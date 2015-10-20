@@ -16,3 +16,10 @@ hip hop
 Inserted document CAS is `c8203d08d0`
 ==> Enter keyword(s):
 ```
+
+## Install
+
+In your GOPATH:
+
+- `git clone https://github.com/couchbase/gocb.git`
+- `git clone https://github.com/rudijs/urban.git`
